@@ -1,48 +1,35 @@
 # Project Name
-> Outline a brief description of your project.
+> With the provided dataset, the company has to make a decision for loan approval based on the applicant’s profile. 
+There are two risks associated:
+If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Technologies Used](Pandas,numpy,Matplotlib, Seaborn)
+* [Conclusions](#Refer to pdf)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Lending Consumer Finance is one of the largest company which specializes in lending various types of loans to urban customers
+- They wish to know borrowers types can be at risk
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Refer to pdf
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [Jitender kumar and BharathReddy ] - feel free to contact me!
 
 
 <!-- Optional -->
